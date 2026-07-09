@@ -1,4 +1,4 @@
-class KeyboardCleaner < Formula
+class KeyboardCleanerCli < Formula
   desc "Temporarily freeze the keyboard so you can clean it"
   homepage "https://github.com/mayaanhafeez/keyboard_cleaner"
   url "https://github.com/mayaanhafeez/keyboard_cleaner/archive/refs/tags/v1.0.0.tar.gz"
