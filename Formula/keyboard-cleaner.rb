@@ -23,6 +23,6 @@ class KeyboardCleaner < Formula
   end
 
   test do
-    assert_predicate bin/"keyboard_cleaner", :exist?
+    assert_path_exists bin/"keyboard_cleaner"
   end
 end

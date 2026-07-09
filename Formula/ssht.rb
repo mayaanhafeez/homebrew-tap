@@ -12,6 +12,6 @@ class Ssht < Formula
   end
 
   test do
-    system "#{bin}/ssht", "--help"
+    system bin/"ssht", "--help"
   end
 end
