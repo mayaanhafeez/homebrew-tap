@@ -1,6 +1,6 @@
 cask "macwifi" do
-  version "0.1.3"
-  sha256 "6a99d13c8677e8dfad34791bcf6f6a933c66c26fbd2dbfc94d4f217dd726a7c6"
+  version "0.1.4"
+  sha256 "dab9bca880ab62ea203c6655a6b078c97444b8c2893ffba8c5c1a33b65dc136a"
 
   url "https://github.com/mayaanhafeez/macwifi/archive/refs/tags/v#{version}.tar.gz"
   name "macwifi"
